@@ -1,2 +1,8 @@
+---
+layout: post
+title:  "のはは!"
+date:   2016-02-12 13:46:40
+categories: jekyll update
+---
 # nohaha
 ようやく
